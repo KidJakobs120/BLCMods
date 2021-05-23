@@ -9,6 +9,7 @@
 	<body>
 		<category name="starlighter">
 			<comment>Replaces the Hawk Eye with a beautiful railgun cousin of the Skullmasher.</comment>
+			<comment>Credit goes to Dave for the "Artifact" sniper skin.</comment>
 			<code profiles="default">set WeaponNamePartDefinition'GD_Sage_RaidWeapons.Name.Title.Sage_Seraph_HawkEye_Title' PartName Starlighter</code>
 			<code profiles="default">set GD_Sage_RaidWeapons.Name.Title.Sage_Seraph_HawkEye_Title:AttributePresentationDefinition_8 NoConstraintText Where light is just a glint of scars.</code>
 			<code profiles="default">set GD_Sage_RaidWeapons.sniper.Sniper_Barrel_HawkEye GestaltModeSkeletalMeshName SR_Barrel_Alien</code>
